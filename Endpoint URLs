@@ -1,0 +1,9 @@
+SAVE Employee: http://localhost:8888/saveEmployee
+
+Get All Employees: http://localhost:8888/getEmployees
+
+Get Employee by id: http://localhost:8888/getEmployee/6600
+
+Update Employee by id: http://localhost:8888/updateEmployee/2200
+
+Delete Employee by id: http://localhost:8888/deleteEmployee/6600
